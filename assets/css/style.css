@@ -1,7 +1,12 @@
 body {
-    background-image: url("file:///Users/hanmoon/Desktop/code/homework/hmwk3/psychic-game/assets/images/cool-background.png");
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/9-hands-on-crystal-ball-and-cryptocurrency-allan-swart.jpg");
     background-size: 100%;
     text-align: center;
     font-family: 'Germania One', cursive;
     font-size: 24px;
+}
+
+.container{
+    margin: 200px 0px 0px 0px;
+    padding: 50px 0px 100px 0px;
 }
